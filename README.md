@@ -1,2 +1,2 @@
 # Wushan
-UE c++ ECS gameplay framework.
+UE C++ ECS gameplay framework.
